@@ -1,4 +1,4 @@
-# desafio-c-sharp-junior
+# desafio-c-sharp
 
 - Criar um fork deste repositorio chamado "Fulllab - Desafio C Sharp";
 
